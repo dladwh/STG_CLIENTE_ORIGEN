@@ -1,0 +1,1 @@
+grant select on STG_CLIENTE_ORIGEN to DW_LOAD;
